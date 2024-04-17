@@ -1,9 +1,14 @@
 # PengkodeandanPemrogramanUTS-sistem-toko-donut
 TOKO ONLINE NAWOORA DONUT
+
 NAMA: NAURA SALSABILA
+
 NIM: 12030122140244
+
 LOGIN SEBAGAI ADMIN: localhost/toko-roti-online/admin
+
 USERNAME: admin PASSWORD: admin
+
 BEFORE TOKO BAKERY
 ![Cuplikan layar 2024-04-16 202632](https://github.com/naurasalsabila06/PengkodeandanPemrogramanUTS-sistem-toko-donut/assets/167267738/7147572c-9829-4167-a6d7-2fd070eef34f)
 ![Cuplikan layar 2024-04-16 203038](https://github.com/naurasalsabila06/PengkodeandanPemrogramanUTS-sistem-toko-donut/assets/167267738/562ca82a-7422-4d9e-ae03-d9c49ac5dbc6)
